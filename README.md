@@ -12,4 +12,5 @@ Interactive Quiz Experience: Test your Disney knowledge with an interactive and 
 
 ![Screenshot 2024-01-23 at 2 44 04 PM](https://github.com/Mlee8812/my_quiz_app/assets/97935821/c75dbeb2-92ec-4690-bcf2-6f2b34be0b62)
 
+![Screenshot 2024-01-23 at 2 41 05 PM](https://github.com/Mlee8812/my_quiz_app/assets/97935821/d277ae99-ddf8-4f63-81ed-aea0f10d801f)
 
